@@ -45,7 +45,7 @@ Thank you so much for joining my Discord servers so we can talk more:
   <a href="https://youtube.com/@RYAN_x7" target="_blank">
     <img align="left" src ="source/social-media.png" width = 50% >
   </a>
-  <a href="https://www.instagram.com/pc__clubs/" target="_blank">
+  <a href="https://www.instagram.com/ig.ryan.x7/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://www.youtube.com/@RYAN_x7?app=desktop&sub_confirmation=1" target="_blank">
