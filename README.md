@@ -17,11 +17,11 @@ It was very exciting for me, then I decided to make more robots and that's what 
 Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
 
 When I learned the Javascript coding language, I was able to create amazing robots. 
-I have created a bot for creating tickets in Discord in 2023 called [**iTHACHi**]([https://discord.com/oauth2/authorize?client_id=1129161954301313024&permissions=8&scope=bot%20applications.commands]), which is very easy to work with it. 
+I have created a bot for creating tickets in Discord in 2023 called [**Evolution X**]([https://evolution-x.ryanx71.repl.co]), which is very easy to work with it. 
 Please help me by inviting it to your discord server and using it. 
 
 Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://dsc.gg/persian-caesar) and [**Community server**](https://dsc.gg/pc-club)
+[**Development server**](https://dsc.gg/persian-caesar) and [**Community server**](https://discord.gg/GMBFN8bsP9)
 
 ---
 
