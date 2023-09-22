@@ -17,27 +17,16 @@ It was very exciting for me, then I decided to make more robots and that's what 
 Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
 
 When I learned the Javascript coding language, I was able to create amazing robots. 
-I have created a bot for creating tickets in Discord in 2023 called [**Evolution X**]([https://evolution-x.ryanx71.repl.co]), which is very easy to work with it. 
+I have created a bot for creating tickets in Discord in 2023 called [**White 01**](https://white-01.ryanx71.repl.co), which is very easy to work with it. 
 Please help me by inviting it to your discord server and using it. 
 
 Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://dsc.gg/persian-caesar) and [**Community server**](https://discord.gg/GMBFN8bsP9)
+[**Development server**](https://discord.gg/VjjJ24BFyH) and [**Community server**](https://discord.gg/GMBFN8bsP9)
 
 ---
 
 <div align="center">
 
- **🌱| I’m currently learning**
-
-| 🎓 Learning Langs | 🎸 Using Apps |
-| ----------- | ----------- |
-| [![langs](https://skillicons.dev/icons?i=css,cpp,py,bots,c&theme=dark)![langs](https://skillicons.dev/icons?i=ts,dotnet,unity,nodejs&theme=dark)![langs](https://skillicons.dev/icons?i=js,java,html,bash&theme=dark)](https://discord.gg/bNpqrdXNNn) | [![apps](https://skillicons.dev/icons?i=discord,ae,git,pr&theme=dark)![apps](https://skillicons.dev/icons?i=powershell,linux,github,vscode&theme=dark)![apps](https://skillicons.dev/icons?i=instagram,gcp&theme=dark)](https://discord.gg/bNpqrdXNNn) |
-
-</div>
-
----
-
-<div align="center">
 
  **📫| Contact me in**
 
