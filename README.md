@@ -2,7 +2,7 @@
 
 <h1 align="center">🎓| About Me</h1>
 
-Hello my friend👋🏻, I am **RYAN_x7** and my real name is **ARSHMA.NAiM-RYAN**.
+Hello my friend👋🏻, I am **RY4N** and my real name is **ARSHMA.NAiM-RYAN**.
 
 I am an ESFJ-A personality type. 
 I hate proud and lying people and I hate this behavior myself.
@@ -17,7 +17,7 @@ It was very exciting for me, then I decided to make more robots and that's what 
 Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
 
 When I learned the Javascript coding language, I was able to create amazing robots. 
-I have created a bot for creating tickets in Discord in 2023 called [**White 01**](https://white-01.ryanx71.repl.co), which is very easy to work with it. 
+I have created a bot for creating tickets in Discord in 2023 called [**ALiEN**](https://discord.com/oauth2/authorize?client_id=1149253305873207340&permissions=8&scope=bot), which is very easy to work with it. 
 Please help me by inviting it to your discord server and using it. 
 
 Thank you so much for joining my Discord servers so we can talk more: 
