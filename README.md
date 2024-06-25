@@ -4,24 +4,13 @@
 
 Hello my friend👋🏻, I am **RY4N** and my real name is **ARSHMA.NAiM-RYAN**.
 
-I am an ESFJ-A personality type. 
-I hate proud and lying people and I hate this behavior myself.
-I am not very warm and cold person, but I communicate with everyone just like normal people. 
 
-How did I get into coding? Well, my beginning goes back to 2021, in this year I was scrolling through YouTube when I saw a video about Discord, I became very interested in this platform, so I went and created an account. 
-To build my Discord server I went back to YouTube and watched a video tutorial for configuring my server. 
-While scrolling, I saw a video with the title of making Discord Music Robot.
-I was interested in watching it, so I did.
-After following the video steps I made a bot for my server. 
-It was very exciting for me, then I decided to make more robots and that's what I did. 
-Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
 
-When I learned the Javascript coding language, I was able to create amazing robots. 
-I have created a bot for creating tickets in Discord in 2023 called [**ALiEN**](https://discord.com/oauth2/authorize?client_id=1149253305873207340&permissions=8&scope=bot), which is very easy to work with it. 
-Please help me by inviting it to your discord server and using it. 
+I Made a Discord Music Bot is  
+ called [**Chingari**](https://discord.com/oauth2/authorize?client_id=1129516341578178682&permissions=8&scope=bot+applications.commands), 
 
 Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://discord.gg/VjjJ24BFyH) and [**Community server**](https://discord.gg/GMBFN8bsP9)
+[**Development server**](https://discord.gg/TeKpwxz64x) and [**Community server**](https://discord.gg/kJd6aGpqsd)
 
 ---
 
