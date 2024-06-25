@@ -4,10 +4,15 @@
 
 Hello my friend👋🏻, I am **RY4N** and my real name is **ARSHMA.NAiM-RYAN**.
 
+.
 
 
-I Made a Discord Music Bot is  
- called [**Chingari**](https://discord.com/oauth2/authorize?client_id=1129516341578178682&permissions=8&scope=bot+applications.commands), 
+.
+
+.
+
+I Made a Discord Music Bot Tru Definition of a Music Bot is  
+ called [**Chingari**](https://discord.com/oauth2/authorize?client_id=1129516341578178682&permissions=8&scope=bot+applications.commands),  
 
 Thank you so much for joining my Discord servers so we can talk more: 
 [**Development server**](https://discord.gg/TeKpwxz64x) and [**Community server**](https://discord.gg/kJd6aGpqsd)
