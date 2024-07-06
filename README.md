@@ -15,7 +15,7 @@ I Made a Discord Music Bot Tru Definition of a Music Bot is
  called [**Chingari**](https://discord.com/oauth2/authorize?client_id=1129516341578178682&permissions=8&scope=bot+applications.commands),  
 
 Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://discord.gg/TeKpwxz64x) and [**Community server**](https://discord.gg/kJd6aGpqsd)
+[**Development server**](https://discord.gg/7XH5Bn7rYR) and [**Community server**](https://discord.gg/7XH5Bn7rYR)
 
 ---
 
