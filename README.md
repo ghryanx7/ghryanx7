@@ -4,12 +4,12 @@
 <img src="https://discord.c99.nl/widget/theme-3/765841266181144596.png" alt="Discord"/>
 </a> -->
 
-I am a CS Student
+I am a Since Student
 
 ## About Me:
 
-- Learning C++ and Java currently
-- A person who loves techy things
+- Learning JavaCcript and Python currently
+- Failed at love, but never at loving
 
 ## Projects
 <a href = "https://discord.gg/W2GheK3F9m">
