@@ -12,10 +12,10 @@ Hello my friend👋🏻, I am **RY4N** and my real name is **ARSHMA.NAiM-RYAN**.
 .
 
 I Made a Discord Music Bot Tru Definition of a Music Bot is  
- called [**Chingari**](https://discord.com/oauth2/authorize?client_id=1129516341578178682&permissions=8&scope=bot+applications.commands),  
+ called [**ARINO**](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&scope=bot+applications.commands),  
 
 Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://discord.gg/7XH5Bn7rYR) and [**Community server**](https://discord.gg/7XH5Bn7rYR)
+[**Development server**](https://discord.gg/W2GheK3F9m) and [**Community server**](https://discord.gg/W2GheK3F9m)
 
 ---
 
