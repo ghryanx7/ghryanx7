@@ -1,44 +1,24 @@
+### [Hey There I am Punit](https://discord.gg/avonbot)
+
+<!-- <a href="https://discord.com/users/765841266181144596">
+<img src="https://discord.c99.nl/widget/theme-3/765841266181144596.png" alt="Discord"/>
+</a> -->
+
+I am a CS Student
+
+## About Me:
+
+- Learning C++ and Java currently
+- A person who loves techy things
+
+## Projects
+<a href = "https://discord.gg/lovezone">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=tru&width=100&theme=gruvbox&section=header&text=Avon&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
+</a>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/765841266181144596) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.itz.punit._) 
 
 
-<h1 align="center">🎓| About Me</h1>
-
-Hello my friend👋🏻, I am **RY4N** and my real name is **ARSHMA.NAiM-RYAN**.
-
-.
-
-
-.
-
-.
-
-I Made a Discord Music Bot Tru Definition of a Music Bot is  
- called [**ARINO**](https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&scope=bot+applications.commands),  
-
-Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://discord.gg/W2GheK3F9m) and [**Community server**](https://discord.gg/W2GheK3F9m)
-
----
-
-<div align="center">
-
-
- **📫| Contact me in**
-
-<div align="center">
-  <a href="https://youtube.com/@RYAN_x7" target="_blank">
-    <img align="left" src ="source/social-media.png" width = 50% >
-  </a>
-  <a href="https://www.instagram.com/ig.ryan.x7/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=flat" height="30" />
-  </a>
-  <a href="https://www.youtube.com/@RYAN_x7?app=desktop&sub_confirmation=1" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
-  </a>
-  <a href="https://github.com/ghryanx7" target="_blank">
-    <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
-  </a>
-
-<!---
-ghryanx7/ghryanx7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Punit9464) 
