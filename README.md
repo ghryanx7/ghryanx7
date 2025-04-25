@@ -17,10 +17,10 @@ I am a science student
 </a>
 
 ## Lavalink 1
-[![RY4N Status](https://lavalink-api.appujet.site/api/widget/new-york-node-1.vortexcloud.xyz.svg)](https://lavalink-list.appujet.site/nodes/new-york-node-1.vortexcloud.xyz)
+[![ARINO Free Status](https://lavalink-api.appujet.site/api/widget/88.99.215.154.svg)](https://lavalink-list.appujet.site/nodes/88.99.215.154)
 
 ## Lavalink 2
-[![ARINO Music Status](https://lavalink-api.appujet.site/api/widget/us.sanode.xyz.svg)](https://lavalink-list.appujet.site/nodes/us.sanode.xyz)
+[![RY4N Status](https://lavalink-api.appujet.site/api/widget/new-york-node-1.vortexcloud.xyz.svg)](https://lavalink-list.appujet.site/nodes/new-york-node-1.vortexcloud.xyz)
 
 
 ## 🌐 Socials:
