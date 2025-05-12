@@ -17,10 +17,7 @@ I am a science student
 </a>
 
 ## Lavalink 1
-[![ARINO Free Status](https://lavalink-api.appujet.site/api/widget/88.99.215.154.svg)](https://lavalink-list.appujet.site/nodes/88.99.215.154)
-
-## Lavalink 2
-[![RY4N Status](https://lavalink-api.appujet.site/api/widget/new-york-node-1.vortexcloud.xyz.svg)](https://lavalink-list.appujet.site/nodes/new-york-node-1.vortexcloud.xyz)
+[![Synthix Host Status](https://lavalink-api.appujet.site/api/widget/38.225.76.33.svg)](https://lavalink-list.appujet.site/nodes/38.225.76.33)
 
 
 ## 🌐 Socials:
