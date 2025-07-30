@@ -16,8 +16,8 @@ I am a science student
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=tru&width=100&theme=gruvbox&section=header&text=ARINO&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
 </a>
 
-## Lavalink 1
-[![Synthix Host Status](https://lavalink-api.appujet.site/api/widget/38.225.76.33.svg)](https://lavalink-list.appujet.site/nodes/38.225.76.33)
+## Lavalink 
+[![RY4N Status](https://lavalink-api.appujet.site/api/widget/89.251.21.22.svg)](https://lavalink-list.appujet.site/nodes/89.251.21.22)
 
 
 ## 🌐 Socials:
