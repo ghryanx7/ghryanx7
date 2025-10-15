@@ -32,7 +32,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/ZANPAKUTO-ZANGETSU-FF6B00?style=for-the-badge&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjk3TDE4LjE4IDIxTDEyIDE3LjI3TDUuODIgMjFMNyAxMy45N0wyIDkuMjdMOC5OTEgOC4yNkwxMiAyWiIgZmlsbD0iI0ZGNkIwMCIvPgo8L3N2Zz4K" alt="Zangetsu"/>
+<img src="https://img.shields.io/badge/ZANPAKUTO-ZANGETSU-FF6B00?style=for-the-badge&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjk3TDE4LjE4IDIxTDEyIDE3LjI3TDUuODIgMjFMNyAxMy45N0wyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkY2QjAwIi8+Cjwvc3ZnPgo=" alt="Zangetsu"/>
 </td>
 </tr>
 </table>
@@ -120,47 +120,6 @@
 
 ---
 
-## LEGENDARY PROJECT: ARINO
-
-<div align="center">
-
-[![ARINO Repository](https://img.shields.io/badge/ZANPAKUTO_RELEASE-ARINO-FF6B00?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white)](https://github.com/ryanwtf88/ARINO)
-
-<table width="100%">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/PROJECT-ARINO:_Discord_Music_Bot-FF4500?style=for-the-badge&labelColor=0a0a0a&logo=discord&logoColor=white" alt="Arino Project"/>
-</td>
-</tr>
-</table>
-
-**ARINO** - The Sound Shinigami of Discord  
-A legendary Discord music bot forged with spiritual pressure and cutting-edge technology—optimized for Bankai-level performance and scalability. Like Ichigo's Getsuga Tensho, it delivers devastating power with precision.
-
-**TECHNOLOGY STACK**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js_v14-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Lavalink](https://img.shields.io/badge/Lavalink-FF6B00?style=flat-square&logo=music&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-<p align="center">
-  <a href="https://github.com/ryanwtf88/ARINO">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0a0a0a?style=for-the-badge&logo=github&logoColor=FF6B00" alt="View Repository"/>
-  </a>
-  <a href="https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands">
-    <img src="https://img.shields.io/badge/INVITE_BOT-FF6B00?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Bot"/>
-  </a>
-  <a href="https://discord.gg/W2GheK3F9m">
-    <img src="https://img.shields.io/badge/SUPPORT_SERVER-FF4500?style=for-the-badge&logo=discord&logoColor=white" alt="Support Server"/>
-  </a>
-</p>
-
-</div>
-
----
-
 ## GITHUB ANALYTICS & SPIRITUAL PRESSURE
 
 <div align="center">
@@ -171,12 +130,12 @@ A legendary Discord music bot forged with spiritual pressure and cutting-edge te
 <tr>
 <td width="50%" align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ryanwtf88&show_icons=true&theme=radical&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=FF6B00&text_color=FF4500&icon_color=FF6B00&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ghryanx7&show_icons=true&theme=radical&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=FF6B00&text_color=FF4500&icon_color=FF6B00&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
 </td>
 <td width="50%" align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwtf88&layout=donut&theme=radical&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=FF4500&text_color=FF6B00&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css" width="100%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghryanx7&layout=donut&theme=radical&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=FF4500&text_color=FF6B00&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css" width="100%" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -184,11 +143,11 @@ A legendary Discord music bot forged with spiritual pressure and cutting-edge te
 
 ### CONTRIBUTION METRICS
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ryanwtf88&theme=radical&hide_border=true&border_radius=20&background=0a0a0a&stroke=FF6B00&ring=FF4500&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF4500&dates=FF8C00" width="100%" alt="Contribution Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ghryanx7&theme=radical&hide_border=true&border_radius=20&background=0a0a0a&stroke=FF6B00&ring=FF4500&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FF4500&dates=FF8C00" width="100%" alt="Contribution Streak"/>
 
 ### ACTIVITY VISUALIZATION
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanwtf88&theme=redical&hide_border=true&bg_color=0a0a0a&color=FF4500&line=FF6B00&point=FF6B00&area=true&area_color=FF4500&title_color=FF6B00" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghryanx7&theme=redical&hide_border=true&bg_color=0a0a0a&color=FF4500&line=FF6B00&point=FF6B00&area=true&area_color=FF4500&title_color=FF6B00" width="100%" alt="Activity Graph"/>
 
 ### INSIGHTS
 
@@ -196,12 +155,12 @@ A legendary Discord music bot forged with spiritual pressure and cutting-edge te
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanwtf88&theme=radical&hide_border=true" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghryanx7&theme=radical&hide_border=true" width="100%" alt="Profile Details"/>
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanwtf88&theme=radical&hide_border=true" width="100%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghryanx7&theme=radical&hide_border=true" width="100%" alt="Productive Time"/>
 
 </td>
 </tr>
@@ -209,7 +168,7 @@ A legendary Discord music bot forged with spiritual pressure and cutting-edge te
 
 ### TROPHIES & ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryanwtf88&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ghryanx7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -230,7 +189,7 @@ A legendary Discord music bot forged with spiritual pressure and cutting-edge te
 </td>
 <td align="center" width="25%">
   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ryanwtf88)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ghryanx7)
 
 **ZANPAKUTO SCROLLS**
 
@@ -255,8 +214,8 @@ A legendary Discord music bot forged with spiritual pressure and cutting-edge te
 ### STATUS
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ryanwtf88?style=for-the-badge&logo=github&labelColor=0a0a0a&color=FF6B00&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=ryanwtf88&color=FF4500&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a0a" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ghryanx7?style=for-the-badge&logo=github&labelColor=0a0a0a&color=FF6B00&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ghryanx7&color=FF4500&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a0a" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/STATUS-BANKAI_ACTIVATED-FF6B00?style=for-the-badge&labelColor=0a0a0a&logo=statuspal&logoColor=FF6B00" alt="Status"/>
 </p>
 
